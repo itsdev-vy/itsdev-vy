@@ -2,8 +2,6 @@
 
 ![Profile GIF](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
-
 ### **Languages and Tools**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -13,8 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Socials**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/itsvinayadav/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinayyadav&theme=github_dark)  
 ![](https://komarev.com/ghpvc/?username=vinayyadav)
