@@ -2,6 +2,8 @@
 
 ![Profile GIF](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
+[![brain-video-funded-firm.gif](https://i.postimg.cc/25c9hxHk/brain-video-funded-firm.gif)](https://postimg.cc/Z9NLh6t2)
+
 ### **Languages and Tools**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
