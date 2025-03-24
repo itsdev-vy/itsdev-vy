@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Vinay+Yadav.++A+MERN+Stack+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=#ffff&width=720&lines=Hi%2C+I'm+Vinay+Yadav.++A+MERN+Stack+Developer.)](https://git.io/typing-svg)
 
 ![Profile GIF](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
